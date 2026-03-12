@@ -26,6 +26,9 @@ RD curves on Kodak.
 <img src="./assets/compare_kodak_psnr.png"  style="zoom: 33%;" />
 
 
+Quantitative comparisons.
+
+<img src="./assets/all_comparisonss.png"  style="zoom: 33%;" />
 
 ## Testing
 
