@@ -21,9 +21,9 @@ The overall framework of CMIC.
 
 ## RD Results
 
-RD curves on Kodak.
+<!-- RD curves on Kodak.
 
-<img src="./assets/compare_kodak_psnr.png"  style="zoom: 33%;" />
+<img src="./assets/compare_kodak_psnr.png"  style="zoom: 33%;" /> -->
 
 
 Quantitative comparisons.
