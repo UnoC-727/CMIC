@@ -22,13 +22,13 @@ Recent learned image compression (LIC) leverages Mamba-style state-space models 
 
 The overall framework of CMIC.
 
-<img src="./assets/overview.pdf"  style="zoom: 33%;" />
+<img src="./assets/overview.png"  style="zoom: 33%;" />
 
 ## RD Results
 
 RD curves on Kodak.
 
-<img src="./assets/compare_kodak_psnr.pdf"  style="zoom: 33%;" />
+<img src="./assets/compare_kodak_psnr.png"  style="zoom: 33%;" />
 
 
 
