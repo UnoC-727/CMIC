@@ -48,6 +48,9 @@ python test_cmic.py   --checkpoint 0.05checkpoint_best.pth.tar 0.025checkpoint_b
 
 This repository provides the implementation and checkpoints of the accelerated version CMIC_AuxT, which is trained with the acceleration strategy of [AuxT](https://github.com/qingshi9974/auxt).
 
+**This is an initial release, and more updates will follow.**
+
+
 | Lambda | Metric | BaiduNetdisk                                                 | GoogleDrive                                                  |
 | ------ | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 0.05   | MSE    | [BaiduNetdisk (code: t8es)](https://pan.baidu.com/s/182bqgy8D-Af5QzkyEAKxRg?pwd=t8es) | [GoogleDrive](https://drive.google.com/file/d/1gIU2EPNXw8GeZKDWUJvRoMDBQKirfXY7/view?usp=share_link) |
