@@ -1,7 +1,7 @@
 # ICLR2026-Content-Aware Mamba for Learned Image Compression
 
 ## News 🔥
-Our paper "Adaptive Learned Image Compression with Graph Neural Networks" has been accepted to CVPR 2026. Code and checkpoints are released at GLIC [https://github.com/UnoC-727/GLIC].
+Our paper "Adaptive Learned Image Compression with Graph Neural Networks" has been accepted to CVPR 2026. Code and checkpoints are released at [GLIC](https://github.com/UnoC-727/GLIC).
 
 
 ## Introduction
