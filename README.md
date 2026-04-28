@@ -94,6 +94,10 @@ This implementation builds upon several excellent projects:
   *ICCV 2025* | [📄 Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Knowledge_Distillation_for_Learned_Image_Compression_ICCV_2025_paper.pdf)
 
 
+* **S2CFormer: Revisiting the RD-Latency Trade-off in Transformer-based Learned Image Compression**  
+  ***Yunuo Chen**, Qian Li, Bing He, Donghui Feng, Ronghua Wu, Qi Wang, Li Song, Guo Lu, Wenjun Zhang  
+  *arXiv, 2025* | [📄 Paper](https://arxiv.org/pdf/2502.00700) | [💻 Unofficial Code](https://github.com/tokkiwa/S2CFormer)
+  
 
 ## Contact
 
