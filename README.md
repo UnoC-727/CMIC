@@ -14,8 +14,8 @@ Recent learned image compression (LIC) leverages Mamba-style state-space models 
 
 ## Environment
 ```
-pip install causal-conv1d --no-build-isolation
-pip install mamba-ssm --no-build-isolation
+python -m pip install causal-conv1d --no-build-isolation
+python -m pip install mamba-ssm --no-build-isolation
 ```
 
 ## Architectures
