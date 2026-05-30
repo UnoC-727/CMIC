@@ -9,7 +9,7 @@ Our paper "Adaptive Learned Image Compression with Graph Neural Networks" has be
 
 ## Introduction
 
-This repository is the offical [Pytorch](https://pytorch.org/) implementation of [Content-Aware Mamba for Learned Image Compression (ICLR2026)](https://openreview.net/forum?id=WwDNiisZQm). 
+This repository is the offical [Pytorch](https://pytorch.org/) implementation of [Content-Aware Mamba for Learned Image Compression (ICLR2026)](https://openreview.net/pdf?id=WwDNiisZQm). 
 
 **Abstract:**
 Recent learned image compression (LIC) leverages Mamba-style state-space models (SSMs) for global receptive fields with linear complexity. However, the standard Mamba adopts content-agnostic, predefined raster (or multi-directional) scans under strict causality. This rigidity hinders its ability to effectively eliminate redundancy between tokens that are content-correlated but spatially distant. We introduce Content-Aware Mamba (CAM), an SSM that dynamically adapts its processing to the image content. Specifically, CAM overcomes prior limitations with two novel mechanisms. First, it replaces the rigid scan with a content-adaptive token permutation strategy to prioritize interactions between content-similar tokens regardless of their location. Second, it overcomes the sequential dependency by injecting sample-specific global priors into the state-space model, which effectively mitigates the strict causality without multi-directional scans. These innovations enable CAM to better capture global redundancy while preserving computational efficiency. Our Content-Aware Mamba-based LIC model (CMIC) achieves state-of-the-art rate-distortion performance, surpassing VTM-21.0 by 15.91%, 21.34%, and 17.58% in BD-rate on the Kodak, Tecnick, and CLIC datasets, respectively.
