@@ -6,7 +6,7 @@
 ## News 🔥🔥🔥
 Our paper "Adaptive Learned Image Compression with Graph Neural Networks" has been accepted to CVPR 2026. Code and checkpoints are released at [GLIC](https://github.com/UnoC-727/GLIC).
 
-Our paper "Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors" has been accepted to ECCV 2026. Code and checkpoints will be released at [GLIC](https://github.com/UnoC-727/NeFIC).
+Our paper "Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors" has been accepted to ECCV 2026. Code and checkpoints will be released at [NeFIC](https://github.com/UnoC-727/NeFIC).
 
 
 ## Introduction
